@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  padding-top: 2rem; 
+}
+
+
+.nav-link.active {
+  background-color: #06b6d4; /* cyan-500 */
+  color: white;
+}
